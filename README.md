@@ -2,8 +2,10 @@
 
 ** Basic Todo List App **
 
-Learned about local storage in web browsers
+Learned about local storage in web browsers.
 
+
+To run the application,
 
 
 
